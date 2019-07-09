@@ -1,0 +1,25 @@
+{
+  "name": "wordbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "start": "cd ./backend && npm start",
+    "build": "cd ./frontend && npm run build",
+    "publish": "concurrently \"npm build\" \"npm start\"",
+    "dev": "concurrently \"nodemon ./backend/bin/www\" \"cd frontend && npm run serve\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^3.5.1",
+    "connect-history-api-fallback": "^1.5.0",
+    "ip-country": "^1.0.2",
+    "iplocation": "^6.1.0",
+    "mongodb": "^3.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
