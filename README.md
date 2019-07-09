@@ -1,4 +1,4 @@
-# Vuetiful Wordbook
+# Vuetiful Wordbook ![wordbook](https://user-images.githubusercontent.com/28590190/60907803-65127700-a2b5-11e9-8c07-3115f5523a9e.png)
 
 [![React](https://img.shields.io/badge/vue--cli-3.7.0-brightgreen.svg?logo=Vue)](https://vuejs.org/)
 
