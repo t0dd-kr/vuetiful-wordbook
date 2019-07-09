@@ -30,7 +30,7 @@ npm start
 ## !! Warning !!
 
 - Only ENG to KOR
-- Using Selenium Webdriver from Google Translation (https://translate.google.co.kr/?hl=ko)
+- Using translation from Google Translation (https://translate.google.co.kr/?hl=ko) with Selenium Webdriver (Google Chrome Webdriver)
 
 ## License
 
