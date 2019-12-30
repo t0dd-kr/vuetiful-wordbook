@@ -7,7 +7,7 @@
 ## Install
 
 ```
-clone https://github.com/t0dd-kr/vuetiful-wordbook.git
+git clone https://github.com/t0dd-kr/vuetiful-wordbook.git
 cd vuetiful-wordbook
 npm install
 cd ./backend
